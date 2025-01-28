@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tarea Final PPLL-1re/1.0.0": {
+        "runtime": {
+          "Tarea Final PPLL-1re.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarea Final PPLL-1re/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

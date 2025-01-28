@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Tarea Final PPLL-1re\bin\Debug\net8.0\Tarea Final PPLL-1re.exe
+C:\Users\PC\Desktop\Tarea Final PPLL-1re\bin\Debug\net8.0\Tarea Final PPLL-1re.deps.json
+C:\Users\PC\Desktop\Tarea Final PPLL-1re\bin\Debug\net8.0\Tarea Final PPLL-1re.runtimeconfig.json
+C:\Users\PC\Desktop\Tarea Final PPLL-1re\bin\Debug\net8.0\Tarea Final PPLL-1re.dll
+C:\Users\PC\Desktop\Tarea Final PPLL-1re\bin\Debug\net8.0\Tarea Final PPLL-1re.pdb
+C:\Users\PC\Desktop\Tarea Final PPLL-1re\obj\Debug\net8.0\Tarea Final PPLL-1re.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Tarea Final PPLL-1re\obj\Debug\net8.0\Tarea Final PPLL-1re.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Tarea Final PPLL-1re\obj\Debug\net8.0\Tarea Final PPLL-1re.AssemblyInfo.cs
+C:\Users\PC\Desktop\Tarea Final PPLL-1re\obj\Debug\net8.0\Tarea Final PPLL-1re.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Tarea Final PPLL-1re\obj\Debug\net8.0\Tarea Final PPLL-1re.dll
+C:\Users\PC\Desktop\Tarea Final PPLL-1re\obj\Debug\net8.0\refint\Tarea Final PPLL-1re.dll
+C:\Users\PC\Desktop\Tarea Final PPLL-1re\obj\Debug\net8.0\Tarea Final PPLL-1re.pdb
+C:\Users\PC\Desktop\Tarea Final PPLL-1re\obj\Debug\net8.0\Tarea Final PPLL-1re.genruntimeconfig.cache
+C:\Users\PC\Desktop\Tarea Final PPLL-1re\obj\Debug\net8.0\ref\Tarea Final PPLL-1re.dll
